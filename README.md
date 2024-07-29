@@ -1,2 +1,2 @@
 # FastAPI-app
-This is my fastapi app made using uvicorn, fastpi and starlette. 
+This is a fast API app using starlette, uvicorn and fastapi. More specifically it is a crud application with get, post, update and delete functions. I made this app by following a youtube tutorial since I was experiences a lot of troubles from app installation to incorrect commands in command prompt thus I settled to make a simple API application first allowing myself to understand the basic concepts of FASTAPI. The main.py file is hosted on http://127.0.0.1:8000 port and when typing "/docs" into the url you can see a more friendly ui which makes viewing updates on your code easier as you write it. 
